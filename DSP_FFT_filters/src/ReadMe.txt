@@ -1,1 +1,1 @@
-The main code is the projectcode.m file.The other files is the faction which call the main program for the three cases of signals
+The main function code is the "projectcode.m". The rest of the files are FFT filters and DSP functions that are used by the main function.
